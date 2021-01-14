@@ -1,5 +1,3 @@
-package Traductor;
-
 import java.util.Hashtable;
 import java.util.Map;
 import java.util.Set;
