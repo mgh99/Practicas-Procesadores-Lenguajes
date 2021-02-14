@@ -5,6 +5,6 @@ genera un código intermedio para una máquina abstracta de pila._
 
 
 ## Autores
-* **Santiago Molpeceres -- [smolpeceresd] (https://github.com/smolpeceresd)
-* **María González -- [mgh99] (https://github.com/mgh99)
+* **Santiago Molpeceres [smolpeceresd] (https://github.com/smolpeceresd)
+* **María González [mgh99] (https://github.com/mgh99)
 * **Carmen Sánchez
